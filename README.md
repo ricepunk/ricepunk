@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-<a href="https://github.com/ricepunk">
-  <img height=200 align="center" src="https://github-readme-stats-seven-phi-76.vercel.app/api?username=ricepunk&show_icons=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/ricepunk">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ricepunk&theme=github" />
-</a>
-
+<p align="center">
+  <table align="center">
+  <tr border="none">
+  <td width="35%" align="center">
+    <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricepunk&theme=github_dark" />
+  </td>
+    
+  <td width="65%" align="center">
+    <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricepunk&theme=github_dark" />
+  </td>
+  </tr>
+  </table>
+</p>
