@@ -16,7 +16,9 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+Total Time: 65 hrs 48 mins
+
 TypeScript     35 hrs 39 mins  >>>>>>>>>>>>>------------   53.97 %
 Lua            16 hrs 42 mins  >>>>>>-------------------   25.29 %
 JSON           4 hrs 50 mins   >>-----------------------   07.32 %
