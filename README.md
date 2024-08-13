@@ -16,7 +16,9 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```typescript
+From: 06 August 2024 - To: 13 August 2024
+
 Total Time: 65 hrs 48 mins
 
 TypeScript     35 hrs 39 mins  >>>>>>>>>>>>>------------   53.97 %
