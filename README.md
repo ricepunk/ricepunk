@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 22 August 2024 - To: 29 August 2024
+From: 23 August 2024 - To: 30 August 2024
 
-Total Time: 52 hrs 4 mins
+Total Time: 52 hrs 12 mins
 
-TypeScript   42 hrs          >>>>>>>>>>>>>>>>>>>>-----   80.10 %
-Lua          7 hrs 19 mins   >>>----------------------   13.96 %
-JSON         1 hr 31 mins    >------------------------   02.90 %
-Bash         32 mins         -------------------------   01.03 %
-Other        22 mins         -------------------------   00.72 %
+TypeScript   42 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>-----   80.45 %
+Lua          7 hrs 9 mins    >>>----------------------   13.61 %
+JSON         1 hr 21 mins    >------------------------   02.58 %
+JavaScript   30 mins         -------------------------   00.98 %
+Bash         28 mins         -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
