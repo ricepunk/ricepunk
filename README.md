@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Total Time: 35 hrs 40 mins
+Total Time: 40 hrs 3 mins
 
-TypeScript   23 hrs 42 mins  >>>>>>>>>>>>>>>>>--------   66.40 %
-Lua          7 hrs 41 mins   >>>>>--------------------   21.52 %
-JavaScript   1 hr 54 mins    >------------------------   05.36 %
-JSON         1 hr 44 mins    >------------------------   04.88 %
-TSConfig     18 mins         -------------------------   00.85 %
+TypeScript   22 hrs 31 mins  >>>>>>>>>>>>>>-----------   56.18 %
+Lua          13 hrs 47 mins  >>>>>>>>>----------------   34.41 %
+JSON         1 hr 41 mins    >------------------------   04.23 %
+JavaScript   1 hr 23 mins    >------------------------   03.48 %
+TSConfig     18 mins         -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
