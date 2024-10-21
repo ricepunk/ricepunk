@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 12 October 2024 - To: 19 October 2024
+From: 13 October 2024 - To: 20 October 2024
 
-Total Time: 5 hrs 59 mins
+Total Time: 5 hrs 51 mins
 
-Lua    5 hrs 47 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.55 %
-INI    7 mins          >------------------------   02.21 %
-SQL    3 mins          -------------------------   00.86 %
-JSON   1 min           -------------------------   00.39 %
+Lua    5 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.52 %
+INI    7 mins          >------------------------   02.26 %
+SQL    3 mins          -------------------------   00.88 %
+JSON   1 min           -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
