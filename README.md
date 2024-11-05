@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 27 October 2024 - To: 03 November 2024
+From: 28 October 2024 - To: 04 November 2024
 
-Total Time: 13 hrs 25 mins
+Total Time: 11 hrs 15 mins
 
-Lua          12 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.91 %
-TypeScript   24 mins         >------------------------   03.02 %
-JSON         8 mins          -------------------------   01.06 %
+Lua          10 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.80 %
+TypeScript   20 mins         >------------------------   02.99 %
+JSON         8 mins          -------------------------   01.20 %
 Roff         0 secs          -------------------------   00.01 %
 TSConfig     0 secs          -------------------------   00.00 %
 ```
