@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Total Time: 4 hrs 10 mins
+Total Time: 4 hrs 6 mins
 
-Lua     4 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.47 %
+Lua     4 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.46 %
 JSON    1 min           -------------------------   00.53 %
 Other   0 secs          -------------------------   00.00 %
 ```
