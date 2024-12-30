@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 21 December 2024 - To: 28 December 2024
+From: 22 December 2024 - To: 29 December 2024
 
-Total Time: 4 hrs 43 mins
+Total Time: 5 hrs 58 mins
 
-Lua          4 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.20 %
-INI          11 mins         >------------------------   04.10 %
-Batchfile    11 mins         >------------------------   04.08 %
-JSON         5 mins          >------------------------   02.10 %
-Markdown     2 mins          -------------------------   00.79 %
+Lua          5 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>----   85.32 %
+Other        17 mins         >------------------------   04.62 %
+INI          11 mins         >------------------------   03.09 %
+Batchfile    11 mins         >------------------------   03.07 %
+JSON         9 mins          >------------------------   02.40 %
 ```
 
 <!--END_SECTION:waka-->
