@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
 Total Time: 0 secs
 
