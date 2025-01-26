@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-Total Time: 1 hr 12 mins
+Total Time: 1 hr 41 mins
 
-TypeScript   58 mins         >>>>>>>>>>>>>>>>>>>------   77.59 %
-SQL          8 mins          >>>----------------------   11.47 %
-JSON         4 mins          >>-----------------------   06.03 %
-Other        2 mins          >------------------------   02.94 %
-JavaScript   0 secs          -------------------------   01.16 %
+TypeScript   1 hr 24 mins    >>>>>>>>>>>>>>>>>>>>-----   81.38 %
+SQL          8 mins          >>-----------------------   08.27 %
+JSON         5 mins          >------------------------   05.52 %
+Other        2 mins          >------------------------   02.12 %
+Bash         1 min           -------------------------   01.00 %
 ```
 
 <!--END_SECTION:waka-->
