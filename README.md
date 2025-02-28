@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 19 February 2025 - To: 26 February 2025
+From: 20 February 2025 - To: 27 February 2025
 
-Total Time: 21 mins
+Total Time: 47 mins
 
-Lua   13 mins         >>>>>>>>>>>>>>>>---------   62.63 %
-INI   8 mins          >>>>>>>>>----------------   37.37 %
+Lua   39 mins         >>>>>>>>>>>>>>>>>>>>>----   83.02 %
+INI   8 mins          >>>>---------------------   16.98 %
 ```
 
 <!--END_SECTION:waka-->
