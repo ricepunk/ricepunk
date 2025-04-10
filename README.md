@@ -17,12 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
 Total Time: 10 mins
 
-C#     8 mins          >>>>>>>>>>>>>>>>>>>------   76.16 %
-JSON   2 mins          >>>>>>-------------------   23.84 %
+C#           8 mins          >>>>>>>>>>>>>>>>>>>------   75.12 %
+JSON         2 mins          >>>>>>-------------------   23.52 %
+JavaScript   0 secs          -------------------------   01.37 %
 ```
 
 <!--END_SECTION:waka-->
