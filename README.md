@@ -17,15 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 2 hrs 41 mins
+Total Time: 1 hr 52 mins
 
-C#           2 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.77 %
-Other        2 mins          -------------------------   01.43 %
-XML          0 secs          -------------------------   00.41 %
-JavaScript   0 secs          -------------------------   00.26 %
-Lua          0 secs          -------------------------   00.13 %
+C#           1 hr 51 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.39 %
+Other        2 mins          >------------------------   02.04 %
+JavaScript   0 secs          -------------------------   00.37 %
+Lua          0 secs          -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
