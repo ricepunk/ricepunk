@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
-Total Time: 54 mins
+Total Time: 35 mins
 
-Lua      43 mins         >>>>>>>>>>>>>>>>>>>>-----   79.67 %
-C#       10 mins         >>>>>--------------------   20.04 %
-INI      0 secs          -------------------------   00.23 %
-Binary   0 secs          -------------------------   00.06 %
+Lua      24 mins         >>>>>>>>>>>>>>>>>--------   68.50 %
+C#       10 mins         >>>>>>>>-----------------   31.05 %
+INI      0 secs          -------------------------   00.36 %
+Binary   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
