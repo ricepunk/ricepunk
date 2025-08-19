@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
-Total Time: 2 hrs 5 mins
+Total Time: 1 hr 54 mins
 
-Text         58 mins         >>>>>>>>>>>>-------------   46.16 %
-YAML         33 mins         >>>>>>>------------------   26.54 %
-JSON         18 mins         >>>>---------------------   14.57 %
-HTML         6 mins          >------------------------   05.16 %
-TypeScript   3 mins          >------------------------   02.85 %
+Text         58 mins         >>>>>>>>>>>>>------------   50.57 %
+YAML         33 mins         >>>>>>>------------------   29.07 %
+JSON         11 mins         >>>----------------------   10.32 %
+HTML         6 mins          >------------------------   05.66 %
+CSS          2 mins          >------------------------   02.55 %
 ```
 
 <!--END_SECTION:waka-->
