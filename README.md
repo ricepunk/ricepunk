@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 13 August 2025 - To: 20 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-Total Time: 10 hrs 49 mins
+Total Time: 10 hrs 36 mins
 
-Lua             4 hrs 19 mins   >>>>>>>>>----------------   37.16 %
-Text            2 hrs 8 mins    >>>>>--------------------   18.35 %
-XML             2 hrs 5 mins    >>>>>--------------------   18.01 %
-Other           48 mins         >>-----------------------   07.00 %
-Python          44 mins         >>-----------------------   06.38 %
+Lua             4 hrs 19 mins   >>>>>>>>>----------------   37.88 %
+Text            2 hrs 8 mins    >>>>>--------------------   18.71 %
+XML             2 hrs 5 mins    >>>>>--------------------   18.36 %
+Other           48 mins         >>-----------------------   07.14 %
+Python          44 mins         >>-----------------------   06.50 %
 ```
 
 <!--END_SECTION:waka-->
