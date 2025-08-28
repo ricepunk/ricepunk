@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 39 mins
+Total Time: 10 mins
 
-Lua             35 mins         >>>>>>>>>>>>>>>>>>>>>----   82.23 %
-Unity3D Asset   4 mins          >>>----------------------   10.49 %
-Other           3 mins          >>-----------------------   07.28 %
+Lua    5 mins          >>>>>>>>>>>>>>-----------   54.81 %
+PHP    4 mins          >>>>>>>>>>>--------------   43.11 %
+JSON   0 secs          >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
