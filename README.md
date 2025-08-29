@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 10 mins
+Total Time: 9 mins
 
-Lua    5 mins          >>>>>>>>>>>>>>-----------   54.81 %
-PHP    4 mins          >>>>>>>>>>>--------------   43.11 %
-JSON   0 secs          >------------------------   02.07 %
+Lua    5 mins          >>>>>>>>>>>>>------------   53.10 %
+PHP    4 mins          >>>>>>>>>>>--------------   44.74 %
+JSON   0 secs          >------------------------   02.15 %
 ```
 
 <!--END_SECTION:waka-->
