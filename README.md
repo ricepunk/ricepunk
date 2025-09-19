@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 10 September 2025 - To: 17 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-Total Time: 19 hrs 10 mins
+Total Time: 23 hrs 21 mins
 
-TypeScript   10 hrs 43 mins  >>>>>>>>>>>>>>-----------   55.92 %
-Lua          4 hrs 53 mins   >>>>>>-------------------   25.52 %
-TSConfig     1 hr 38 mins    >>-----------------------   08.55 %
-JavaScript   55 mins         >------------------------   04.84 %
-JSON         50 mins         >------------------------   04.38 %
+TypeScript   14 hrs 34 mins  >>>>>>>>>>>>>>>>---------   62.37 %
+Lua          4 hrs 59 mins   >>>>>--------------------   21.33 %
+TSConfig     1 hr 39 mins    >>-----------------------   07.12 %
+JavaScript   55 mins         >------------------------   03.99 %
+JSON         49 mins         >------------------------   03.55 %
 ```
 
 <!--END_SECTION:waka-->
