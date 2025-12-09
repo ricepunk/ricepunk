@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 10 hrs 22 mins
+Total Time: 12 hrs 15 mins
 
-TypeScript   6 hrs 22 mins   >>>>>>>>>>>>>>>----------   60.98 %
-JSON         1 hr 11 mins    >>>----------------------   11.47 %
-Prisma       46 mins         >>-----------------------   07.37 %
-Text         29 mins         >------------------------   04.67 %
-Markdown     23 mins         >------------------------   03.79 %
+TypeScript   7 hrs 1 min     >>>>>>>>>>>>>>-----------   56.98 %
+Go           1 hr 17 mins    >>>----------------------   10.49 %
+JSON         1 hr 13 mins    >>-----------------------   09.99 %
+Prisma       47 mins         >>-----------------------   06.42 %
+Text         30 mins         >------------------------   04.14 %
 ```
 
 <!--END_SECTION:waka-->
