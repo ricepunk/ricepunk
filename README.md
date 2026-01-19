@@ -17,11 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Total Time: 0 secs
+Total Time: 28 mins
 
-No activity tracked
+TypeScript   25 mins         >>>>>>>>>>>>>>>>>>>>>>---   89.33 %
+Lua          2 mins          >>>----------------------   10.11 %
+Markdown     0 secs          -------------------------   00.56 %
 ```
 
 <!--END_SECTION:waka-->
