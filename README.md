@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 21 hrs 29 mins
+Total Time: 22 hrs 11 mins
 
-TypeScript   11 hrs 23 mins        >>>>>>>>>>>>>------------   52.95 %
-Lua          7 hrs 39 mins         >>>>>>>>>----------------   35.59 %
-JSON         1 hr 1 min            >------------------------   04.79 %
-CSS          47 mins               >------------------------   03.70 %
-Git Config   20 mins               -------------------------   01.59 %
+Lua          10 hrs 20 mins        >>>>>>>>>>>>-------------   46.57 %
+TypeScript   9 hrs 48 mins         >>>>>>>>>>>--------------   44.14 %
+JSON         52 mins               >------------------------   03.92 %
+CSS          35 mins               >------------------------   02.69 %
+Git Config   20 mins               -------------------------   01.54 %
 ```
 
 <!--END_SECTION:waka-->
